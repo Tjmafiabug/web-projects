@@ -2,7 +2,7 @@
 
 # 🌐 Web Projects
 
-![Live sites](https://img.shields.io/badge/Live_sites-15-6d28d9?style=for-the-badge&labelColor=1e1b4b)
+![Live sites](https://img.shields.io/badge/Live_sites-14-6d28d9?style=for-the-badge&labelColor=1e1b4b)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -72,54 +72,46 @@
 <sub>Find and hire verified home cooks. Trust through verification, quality through ratings.</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://doctorrating.vercel.app"><img src="assets/doctorrating.png" width="100%" alt="DoctorRating"></a>
-<br><b><a href="https://doctorrating.vercel.app">DoctorRating →</a></b><br>
-<sub>Verified doctors + structured ratings from authenticated patients across India. 100% unbiased, zero paid rankings.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://doodhwalarating.com"><img src="assets/doodhwalarating.png" width="100%" alt="DoodhwalaRating"></a>
 <br><b><a href="https://doodhwalarating.com">DoodhwalaRating →</a></b><br>
 <sub>India's first verified doodhwala platform. Every milkman confirmed against FSSAI dairy registration + identity.</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://driverrating.in"><img src="assets/driverrating.png" width="100%" alt="DriverRating"></a>
 <br><b><a href="https://driverrating.in">DriverRating →</a></b><br>
 <sub>Hire a safe part-time, monthly or agency driver. Free Driver Trust Score, licence + police verification, vetted locals.</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://floristrating.in"><img src="assets/floristrating.png" width="100%" alt="FloristRating"></a>
 <br><b><a href="https://floristrating.in">FloristRating →</a></b><br>
 <sub>India's first verified florist platform. Every florist confirmed against GST, Shop & Establishment, and identity.</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://fruitsellerrating.com"><img src="assets/fruitsellerrating.png" width="100%" alt="FruitSellerRating"></a>
 <br><b><a href="https://fruitsellerrating.com">FruitSellerRating →</a></b><br>
 <sub>India's first verified fruit-seller platform. Every vendor confirmed against FSSAI, GST, and identity records.</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://halwairating.com"><img src="assets/halwairating.png" width="100%" alt="HalwaiRating"></a>
 <br><b><a href="https://halwairating.com">HalwaiRating →</a></b><br>
 <sub>India's first verified halwai platform. Every mithai-maker confirmed with FSSAI, GST, licence, and Aadhaar.</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://homecleaningrating.com"><img src="assets/homecleaningrating.png" width="100%" alt="HomeCleaningRating"></a>
 <br><b><a href="https://homecleaningrating.com">HomeCleaningRating →</a></b><br>
 <sub>India's first verified home-cleaning platform. Every cleaner background-checked and ID-verified.</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://maidrating.vercel.app"><img src="assets/maidrating.png" width="100%" alt="MaidRating"></a>
 <br><b><a href="https://maidrating.vercel.app">MaidRating →</a></b><br>
 <sub>India's first verified domestic-helper platform. Every helper confirmed against police verification, Aadhaar, and prior-employer references.</sub>
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
